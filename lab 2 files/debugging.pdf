@@ -1,0 +1,12 @@
+Olivia Bakke
+Jan 24, 2026
+
+evaluate.py: Because the original code only calls apply operation when it hits a + or -,
+the last number is never actually evaluated in the function.
+
+optimize.py: In lines 23 through 25, the variable attempt was getting updated three times.
+The last update completely changed the variable instead of adding on to the end of it.
+
+puntuation.py: The if statement checking if the character was a punctuation needed to be
+false in order for the character to be added to the result string, not true. Previously,
+it was just returning all of the punctuations in the string instead of the other way around.

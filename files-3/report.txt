@@ -1,0 +1,11 @@
+*******************************
+REPORT FOR chicago_listings.csv
+(Data as of September 22, 2025)
+*******************************
+
+Total listings: 1
+
+Listings that are:
+Short-term rentals : 0 (0.0%)
+Longer-term rentals: 1 (100.0%)
+
